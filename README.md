@@ -1,4 +1,4 @@
-s# ml-learning
+# ml-learning
 
 A comprehensive learning repository covering **Python programming**, **Mathematics for Machine Learning (Linear Algebra & Calculus)**, and **Data Visualization**.
 This repo is designed as a self-learning journey with notebooks, examples, and code snippets.
