@@ -1,8 +1,4 @@
-Got it 👍 — here’s your README fully converted into **GitHub Markdown** (ready to copy-paste into your `README.md`):
-
----
-
-# ml-learning
+s# ml-learning
 
 A comprehensive learning repository covering **Python programming**, **Mathematics for Machine Learning (Linear Algebra & Calculus)**, and **Data Visualization**.
 This repo is designed as a self-learning journey with notebooks, examples, and code snippets.
